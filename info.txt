@@ -1,1 +1,23 @@
 For making a Image Generative Modelling porject.
+
+Data Description
+----------------
+for Training
+------------
+1. Sai
+2. Vali
+3. Jabiulla
+4. Muni
+5. Uday
+6. Vamshi
+7. Yogesh
+8. Anand
+
+for Testing
+-----------
+9. Manikanta
+10. Sunil
+11. Vighesh
+12. Siddik
+
+8*6 + 16 + 4 + 2*6
